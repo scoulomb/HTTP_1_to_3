@@ -10,7 +10,7 @@ Slides JM
 Introduction to Keep Alive.
 See https://github.com/scoulomb/private_script/blob/main/Links-story-notes/connection-keep-alive.md
 
-<!-- was ccl -->
+<!-- was ccl and said not a ~~ topic ~--->
 
 ## HTTP 2.0
 
@@ -23,17 +23,17 @@ It is well visible
     - https://stackoverflow.com/questions/31446777/difference-between-packets-and-frames/31464376#31464376 (where packet enscapulsation is shown)
     - https://github.com/scoulomb/misc-notes/blob/master/NAS-setup/Wake-On-LAN.md#reminder-on-arp 
     - https://github.com/scoulomb/misc-notes/blob/master/NAS-setup/Wake-On-LAN.md#wol---how-does-it-work
-    <!-- all ccl here and said not a ~~ topic ~-->
+    <!-- all ccl here->
 
 - This wikipedia article also completes: https://en.wikipedia.org/wiki/Internet_protocol_suite and show router. <!-- (could imagine nexted rectangle also) -->
 - This enables to understand what is TCP (also used here: https://github.com/scoulomb/misc-notes/blob/master/NAS-setup/Wake-On-LAN.md#socket-and-python)
 
-<!-- section "Reminder on TCP layer" ccl -->
+<!-- all this was ccl before, can consider section "Reminder on TCP layer" ccl -->
 
 ### About stream
 
 See https://github.com/scoulomb/private_script/blob/main/Links-story-notes/socketEstablishmentDirection.md
-<!-- this ccl and update consider OK for now -->
+<!-- this socketEstablishmentDirection.md is ccl,  and said not a ~~ topic ~~ and update consider OK for now -->
 
 Websocket and HTTP 2 breaks traditionnal query/reply (inboud/outbound) and push for bi-directionnal flow
 
